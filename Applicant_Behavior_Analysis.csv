@@ -1,0 +1,1001 @@
+Applicant_ID,Traffic_Source,Device,Pages_Visited,Time_Spent_Minutes,Application_Completed,Exit_Page
+APP1001,Instagram,Tablet,1,1,Yes,Application Form
+APP1002,Direct,Mobile,3,4,Yes,Confirmation
+APP1003,Facebook,Mobile,8,13,No,Application Form
+APP1004,Direct,Tablet,3,23,No,Resume Upload
+APP1005,Direct,Mobile,8,13,Yes,Resume Upload
+APP1006,LinkedIn,Desktop,1,13,No,Resume Upload
+APP1007,Facebook,Mobile,5,2,No,Confirmation
+APP1008,Facebook,Mobile,4,9,Yes,Resume Upload
+APP1009,Facebook,Desktop,5,24,Yes,Home
+APP1010,Direct,Mobile,8,8,Yes,Resume Upload
+APP1011,Instagram,Tablet,4,7,No,Application Form
+APP1012,Facebook,Tablet,4,4,No,Application Form
+APP1013,Direct,Mobile,3,18,Yes,Application Form
+APP1014,LinkedIn,Desktop,7,3,Yes,Confirmation
+APP1015,Instagram,Tablet,3,28,Yes,Application Form
+APP1016,LinkedIn,Mobile,3,6,Yes,Confirmation
+APP1017,Instagram,Desktop,5,12,Yes,Confirmation
+APP1018,Direct,Tablet,5,12,No,Resume Upload
+APP1019,Google,Mobile,6,21,Yes,Home
+APP1020,Instagram,Mobile,8,28,No,Resume Upload
+APP1021,LinkedIn,Mobile,6,8,No,Resume Upload
+APP1022,Direct,Desktop,1,22,No,Confirmation
+APP1023,Instagram,Desktop,8,22,Yes,Confirmation
+APP1024,Google,Desktop,8,1,Yes,Application Form
+APP1025,Google,Mobile,9,4,Yes,Application Form
+APP1026,Facebook,Desktop,9,21,Yes,Resume Upload
+APP1027,Facebook,Desktop,2,28,Yes,Internship List
+APP1028,LinkedIn,Desktop,2,11,Yes,Internship List
+APP1029,Instagram,Mobile,3,3,Yes,Application Form
+APP1030,Instagram,Tablet,1,13,Yes,Internship List
+APP1031,Facebook,Desktop,4,25,Yes,Application Form
+APP1032,Instagram,Desktop,4,17,Yes,Confirmation
+APP1033,Instagram,Mobile,9,22,No,Resume Upload
+APP1034,Google,Mobile,9,22,No,Home
+APP1035,Facebook,Desktop,9,10,Yes,Resume Upload
+APP1036,Direct,Mobile,7,21,Yes,Application Form
+APP1037,Facebook,Desktop,2,12,Yes,Application Form
+APP1038,Direct,Desktop,5,15,Yes,Resume Upload
+APP1039,Google,Mobile,4,21,Yes,Application Form
+APP1040,LinkedIn,Desktop,8,10,No,Internship List
+APP1041,Instagram,Tablet,2,14,Yes,Internship List
+APP1042,Google,Desktop,6,13,Yes,Application Form
+APP1043,Instagram,Mobile,5,5,Yes,Application Form
+APP1044,LinkedIn,Mobile,2,6,Yes,Internship List
+APP1045,LinkedIn,Desktop,1,24,Yes,Application Form
+APP1046,Google,Mobile,8,2,Yes,Application Form
+APP1047,LinkedIn,Desktop,2,22,Yes,Resume Upload
+APP1048,Direct,Tablet,7,17,Yes,Home
+APP1049,LinkedIn,Desktop,9,4,Yes,Internship List
+APP1050,Instagram,Desktop,9,14,Yes,Resume Upload
+APP1051,Instagram,Desktop,8,10,Yes,Home
+APP1052,Instagram,Tablet,9,3,No,Application Form
+APP1053,Instagram,Mobile,2,25,Yes,Application Form
+APP1054,Direct,Mobile,6,3,Yes,Resume Upload
+APP1055,Facebook,Desktop,4,15,Yes,Application Form
+APP1056,Google,Mobile,4,6,Yes,Confirmation
+APP1057,Instagram,Desktop,5,17,Yes,Resume Upload
+APP1058,LinkedIn,Mobile,3,12,Yes,Home
+APP1059,Instagram,Desktop,1,22,No,Resume Upload
+APP1060,LinkedIn,Desktop,8,20,Yes,Internship List
+APP1061,LinkedIn,Desktop,5,24,Yes,Resume Upload
+APP1062,Instagram,Mobile,3,29,Yes,Application Form
+APP1063,Direct,Mobile,7,11,No,Application Form
+APP1064,LinkedIn,Desktop,7,25,Yes,Confirmation
+APP1065,LinkedIn,Mobile,1,4,Yes,Confirmation
+APP1066,Instagram,Mobile,9,26,Yes,Confirmation
+APP1067,LinkedIn,Mobile,2,28,Yes,Home
+APP1068,LinkedIn,Desktop,5,26,Yes,Confirmation
+APP1069,Instagram,Desktop,5,6,Yes,Home
+APP1070,Instagram,Mobile,8,1,Yes,Confirmation
+APP1071,Google,Desktop,8,20,Yes,Home
+APP1072,Direct,Desktop,7,23,Yes,Resume Upload
+APP1073,Direct,Mobile,7,28,Yes,Resume Upload
+APP1074,LinkedIn,Tablet,6,16,No,Application Form
+APP1075,Direct,Desktop,6,15,Yes,Home
+APP1076,LinkedIn,Desktop,9,17,Yes,Internship List
+APP1077,Google,Mobile,6,8,Yes,Application Form
+APP1078,Instagram,Desktop,2,28,Yes,Resume Upload
+APP1079,Instagram,Desktop,2,26,No,Home
+APP1080,Instagram,Desktop,5,12,Yes,Confirmation
+APP1081,Direct,Mobile,4,27,Yes,Internship List
+APP1082,Google,Mobile,2,22,Yes,Resume Upload
+APP1083,Direct,Desktop,3,21,Yes,Application Form
+APP1084,Direct,Desktop,7,10,Yes,Home
+APP1085,Google,Desktop,8,27,Yes,Internship List
+APP1086,Google,Mobile,6,15,Yes,Home
+APP1087,Google,Desktop,5,30,No,Confirmation
+APP1088,Google,Desktop,1,9,Yes,Application Form
+APP1089,Instagram,Mobile,8,2,No,Home
+APP1090,Facebook,Desktop,3,5,No,Resume Upload
+APP1091,Facebook,Mobile,6,6,No,Application Form
+APP1092,Google,Desktop,3,7,Yes,Resume Upload
+APP1093,Facebook,Desktop,7,21,Yes,Home
+APP1094,Facebook,Desktop,7,25,No,Application Form
+APP1095,Google,Mobile,9,1,Yes,Resume Upload
+APP1096,Facebook,Mobile,5,23,Yes,Confirmation
+APP1097,Direct,Mobile,8,26,No,Confirmation
+APP1098,LinkedIn,Desktop,8,7,No,Home
+APP1099,LinkedIn,Mobile,1,20,Yes,Application Form
+APP1100,Google,Desktop,5,25,Yes,Internship List
+APP1101,Instagram,Desktop,3,30,Yes,Application Form
+APP1102,Google,Mobile,1,12,No,Confirmation
+APP1103,Instagram,Desktop,4,16,No,Resume Upload
+APP1104,LinkedIn,Desktop,8,16,Yes,Internship List
+APP1105,Google,Desktop,3,11,Yes,Home
+APP1106,Direct,Desktop,2,21,No,Internship List
+APP1107,Facebook,Desktop,9,4,Yes,Home
+APP1108,Instagram,Mobile,5,13,Yes,Internship List
+APP1109,Facebook,Desktop,7,7,No,Home
+APP1110,Facebook,Mobile,2,4,Yes,Home
+APP1111,Google,Mobile,9,15,Yes,Internship List
+APP1112,Facebook,Desktop,9,19,Yes,Internship List
+APP1113,Direct,Desktop,4,9,Yes,Home
+APP1114,Facebook,Desktop,4,11,No,Confirmation
+APP1115,Google,Mobile,6,8,Yes,Internship List
+APP1116,Direct,Desktop,6,1,No,Application Form
+APP1117,LinkedIn,Mobile,1,23,Yes,Resume Upload
+APP1118,Facebook,Desktop,9,25,Yes,Home
+APP1119,Google,Mobile,2,24,Yes,Home
+APP1120,LinkedIn,Desktop,5,8,Yes,Resume Upload
+APP1121,LinkedIn,Desktop,9,13,Yes,Confirmation
+APP1122,Instagram,Tablet,4,22,Yes,Resume Upload
+APP1123,Direct,Mobile,3,27,Yes,Internship List
+APP1124,Facebook,Desktop,7,4,Yes,Resume Upload
+APP1125,Google,Mobile,6,8,No,Home
+APP1126,Instagram,Mobile,8,3,Yes,Resume Upload
+APP1127,Direct,Mobile,3,29,No,Application Form
+APP1128,Instagram,Mobile,5,9,Yes,Internship List
+APP1129,Direct,Desktop,4,29,Yes,Resume Upload
+APP1130,Direct,Desktop,4,2,Yes,Home
+APP1131,Facebook,Desktop,4,2,Yes,Internship List
+APP1132,Direct,Mobile,8,28,Yes,Home
+APP1133,Instagram,Mobile,6,13,No,Confirmation
+APP1134,Direct,Desktop,3,15,No,Application Form
+APP1135,Facebook,Desktop,5,28,Yes,Confirmation
+APP1136,Facebook,Mobile,6,23,Yes,Application Form
+APP1137,Instagram,Tablet,5,12,No,Resume Upload
+APP1138,LinkedIn,Mobile,6,26,Yes,Internship List
+APP1139,LinkedIn,Desktop,8,4,No,Resume Upload
+APP1140,Direct,Desktop,7,26,No,Application Form
+APP1141,Google,Desktop,5,8,No,Application Form
+APP1142,Direct,Tablet,6,9,Yes,Application Form
+APP1143,Instagram,Desktop,4,23,Yes,Home
+APP1144,Instagram,Mobile,9,5,Yes,Internship List
+APP1145,Instagram,Desktop,4,24,Yes,Resume Upload
+APP1146,Instagram,Mobile,1,20,No,Resume Upload
+APP1147,Instagram,Mobile,7,18,Yes,Confirmation
+APP1148,Facebook,Mobile,7,11,Yes,Application Form
+APP1149,LinkedIn,Desktop,4,15,No,Application Form
+APP1150,Instagram,Desktop,3,28,No,Application Form
+APP1151,Google,Desktop,8,22,No,Resume Upload
+APP1152,Google,Tablet,5,9,No,Confirmation
+APP1153,Google,Mobile,7,17,Yes,Home
+APP1154,Google,Mobile,4,27,Yes,Internship List
+APP1155,Facebook,Mobile,4,26,No,Home
+APP1156,Google,Mobile,8,12,Yes,Resume Upload
+APP1157,Instagram,Desktop,8,7,Yes,Application Form
+APP1158,Direct,Tablet,2,10,Yes,Internship List
+APP1159,Google,Desktop,2,25,Yes,Resume Upload
+APP1160,Facebook,Desktop,3,26,No,Resume Upload
+APP1161,Facebook,Mobile,3,25,Yes,Resume Upload
+APP1162,Google,Desktop,1,10,Yes,Internship List
+APP1163,Direct,Desktop,3,27,Yes,Internship List
+APP1164,Google,Mobile,6,13,Yes,Confirmation
+APP1165,Facebook,Desktop,8,19,Yes,Confirmation
+APP1166,LinkedIn,Mobile,6,11,Yes,Home
+APP1167,Instagram,Desktop,5,13,No,Internship List
+APP1168,Facebook,Desktop,4,21,Yes,Internship List
+APP1169,Google,Desktop,3,8,Yes,Internship List
+APP1170,Instagram,Desktop,4,8,Yes,Confirmation
+APP1171,Google,Mobile,7,4,Yes,Resume Upload
+APP1172,Google,Desktop,1,15,Yes,Application Form
+APP1173,LinkedIn,Mobile,7,28,No,Confirmation
+APP1174,Instagram,Mobile,1,11,Yes,Internship List
+APP1175,Instagram,Mobile,2,11,No,Confirmation
+APP1176,LinkedIn,Tablet,4,1,Yes,Home
+APP1177,Facebook,Mobile,1,17,Yes,Internship List
+APP1178,Google,Desktop,9,15,Yes,Home
+APP1179,Direct,Desktop,6,20,No,Internship List
+APP1180,Google,Desktop,1,6,Yes,Confirmation
+APP1181,Google,Mobile,1,24,Yes,Resume Upload
+APP1182,Facebook,Desktop,6,22,Yes,Application Form
+APP1183,Google,Mobile,4,28,Yes,Home
+APP1184,LinkedIn,Mobile,4,25,Yes,Confirmation
+APP1185,LinkedIn,Desktop,6,15,Yes,Resume Upload
+APP1186,Instagram,Mobile,7,9,Yes,Confirmation
+APP1187,Direct,Desktop,9,14,Yes,Home
+APP1188,Google,Desktop,5,18,Yes,Application Form
+APP1189,Google,Mobile,9,26,No,Confirmation
+APP1190,Facebook,Mobile,4,17,No,Internship List
+APP1191,LinkedIn,Mobile,2,18,No,Resume Upload
+APP1192,Direct,Desktop,3,5,Yes,Confirmation
+APP1193,Instagram,Desktop,1,20,Yes,Resume Upload
+APP1194,LinkedIn,Mobile,6,20,Yes,Internship List
+APP1195,Instagram,Mobile,6,9,Yes,Application Form
+APP1196,Facebook,Mobile,1,11,Yes,Application Form
+APP1197,Facebook,Desktop,3,24,Yes,Internship List
+APP1198,Google,Mobile,5,22,Yes,Resume Upload
+APP1199,Direct,Desktop,3,1,Yes,Confirmation
+APP1200,Instagram,Desktop,3,18,No,Internship List
+APP1201,LinkedIn,Tablet,3,6,Yes,Home
+APP1202,Facebook,Desktop,5,27,Yes,Resume Upload
+APP1203,Google,Tablet,5,2,Yes,Application Form
+APP1204,Google,Desktop,4,15,Yes,Internship List
+APP1205,Instagram,Desktop,1,29,Yes,Application Form
+APP1206,Facebook,Mobile,5,26,No,Resume Upload
+APP1207,Direct,Mobile,5,21,No,Application Form
+APP1208,Facebook,Mobile,4,14,Yes,Internship List
+APP1209,Instagram,Mobile,6,5,No,Resume Upload
+APP1210,Instagram,Mobile,4,6,No,Home
+APP1211,Facebook,Mobile,7,6,No,Internship List
+APP1212,Instagram,Mobile,7,30,No,Confirmation
+APP1213,Facebook,Desktop,2,22,Yes,Internship List
+APP1214,LinkedIn,Mobile,3,30,Yes,Resume Upload
+APP1215,Facebook,Desktop,1,18,Yes,Internship List
+APP1216,Facebook,Tablet,8,14,Yes,Home
+APP1217,Instagram,Tablet,9,10,No,Home
+APP1218,Instagram,Desktop,4,14,Yes,Confirmation
+APP1219,Google,Mobile,6,13,No,Application Form
+APP1220,Google,Tablet,9,30,No,Resume Upload
+APP1221,LinkedIn,Desktop,6,3,No,Resume Upload
+APP1222,Google,Mobile,9,30,No,Application Form
+APP1223,Facebook,Tablet,4,6,Yes,Home
+APP1224,Instagram,Desktop,8,29,Yes,Home
+APP1225,Google,Mobile,9,8,Yes,Internship List
+APP1226,Google,Desktop,4,12,Yes,Confirmation
+APP1227,LinkedIn,Tablet,5,13,Yes,Confirmation
+APP1228,LinkedIn,Tablet,8,11,Yes,Confirmation
+APP1229,Facebook,Tablet,6,12,No,Internship List
+APP1230,Instagram,Mobile,7,1,Yes,Confirmation
+APP1231,LinkedIn,Mobile,3,17,Yes,Application Form
+APP1232,Google,Mobile,7,16,Yes,Internship List
+APP1233,Instagram,Desktop,8,11,Yes,Application Form
+APP1234,Instagram,Mobile,6,13,Yes,Internship List
+APP1235,Google,Desktop,9,18,No,Confirmation
+APP1236,LinkedIn,Mobile,6,11,Yes,Application Form
+APP1237,Google,Desktop,9,28,No,Application Form
+APP1238,Instagram,Desktop,4,12,Yes,Application Form
+APP1239,Direct,Desktop,8,6,No,Internship List
+APP1240,Direct,Mobile,4,9,Yes,Resume Upload
+APP1241,Facebook,Desktop,2,16,Yes,Confirmation
+APP1242,Google,Mobile,9,4,Yes,Application Form
+APP1243,Google,Desktop,5,3,No,Resume Upload
+APP1244,Facebook,Desktop,4,28,Yes,Confirmation
+APP1245,Facebook,Mobile,2,16,Yes,Confirmation
+APP1246,Facebook,Mobile,1,24,No,Application Form
+APP1247,Instagram,Desktop,7,27,No,Application Form
+APP1248,Google,Mobile,6,26,Yes,Internship List
+APP1249,Instagram,Mobile,2,30,No,Resume Upload
+APP1250,Facebook,Mobile,8,25,Yes,Resume Upload
+APP1251,Google,Desktop,4,12,Yes,Application Form
+APP1252,Instagram,Desktop,8,11,Yes,Confirmation
+APP1253,Instagram,Mobile,7,5,No,Application Form
+APP1254,Facebook,Desktop,5,25,No,Confirmation
+APP1255,Google,Mobile,8,18,Yes,Confirmation
+APP1256,Facebook,Mobile,9,19,Yes,Application Form
+APP1257,Google,Tablet,5,23,Yes,Home
+APP1258,Direct,Mobile,5,23,No,Resume Upload
+APP1259,LinkedIn,Tablet,2,6,No,Confirmation
+APP1260,LinkedIn,Desktop,5,22,Yes,Confirmation
+APP1261,LinkedIn,Mobile,3,18,No,Home
+APP1262,Facebook,Desktop,7,26,No,Internship List
+APP1263,Direct,Mobile,5,6,Yes,Home
+APP1264,Google,Mobile,8,4,Yes,Home
+APP1265,Instagram,Mobile,1,12,Yes,Confirmation
+APP1266,Google,Tablet,3,19,Yes,Resume Upload
+APP1267,Instagram,Mobile,3,29,Yes,Home
+APP1268,Google,Desktop,9,27,Yes,Internship List
+APP1269,Direct,Desktop,5,29,No,Application Form
+APP1270,Instagram,Mobile,9,2,Yes,Home
+APP1271,Facebook,Desktop,9,17,Yes,Home
+APP1272,Google,Desktop,1,11,Yes,Internship List
+APP1273,Google,Desktop,2,11,Yes,Resume Upload
+APP1274,Instagram,Desktop,5,21,Yes,Home
+APP1275,Facebook,Desktop,4,16,Yes,Home
+APP1276,Facebook,Desktop,9,2,Yes,Resume Upload
+APP1277,Direct,Desktop,7,2,Yes,Internship List
+APP1278,Facebook,Desktop,6,23,Yes,Home
+APP1279,Facebook,Tablet,7,8,Yes,Resume Upload
+APP1280,Facebook,Desktop,1,13,No,Home
+APP1281,LinkedIn,Desktop,1,10,Yes,Application Form
+APP1282,Direct,Mobile,8,8,Yes,Confirmation
+APP1283,Google,Desktop,2,30,No,Application Form
+APP1284,Instagram,Tablet,9,4,Yes,Home
+APP1285,Google,Mobile,7,15,Yes,Internship List
+APP1286,Direct,Desktop,6,30,No,Confirmation
+APP1287,Instagram,Desktop,1,1,Yes,Application Form
+APP1288,Direct,Mobile,1,11,Yes,Resume Upload
+APP1289,Facebook,Tablet,2,7,No,Internship List
+APP1290,Instagram,Mobile,6,17,No,Application Form
+APP1291,Facebook,Mobile,6,27,No,Resume Upload
+APP1292,Google,Desktop,2,20,Yes,Home
+APP1293,Google,Tablet,1,24,Yes,Resume Upload
+APP1294,Instagram,Desktop,5,18,Yes,Application Form
+APP1295,Instagram,Tablet,5,22,Yes,Application Form
+APP1296,Direct,Mobile,2,29,Yes,Home
+APP1297,Direct,Mobile,6,22,Yes,Resume Upload
+APP1298,Facebook,Mobile,9,12,No,Resume Upload
+APP1299,Instagram,Desktop,2,9,Yes,Home
+APP1300,Google,Desktop,2,5,Yes,Resume Upload
+APP1301,Direct,Desktop,3,10,Yes,Home
+APP1302,Direct,Desktop,7,4,Yes,Internship List
+APP1303,Google,Mobile,6,5,Yes,Application Form
+APP1304,Direct,Desktop,8,28,Yes,Internship List
+APP1305,Facebook,Desktop,8,28,Yes,Confirmation
+APP1306,Instagram,Tablet,6,10,Yes,Confirmation
+APP1307,Google,Mobile,3,11,No,Confirmation
+APP1308,Instagram,Tablet,3,21,No,Home
+APP1309,Direct,Tablet,1,24,Yes,Resume Upload
+APP1310,Direct,Desktop,7,10,Yes,Internship List
+APP1311,Google,Desktop,5,28,No,Internship List
+APP1312,Facebook,Mobile,4,8,No,Internship List
+APP1313,LinkedIn,Mobile,4,2,Yes,Internship List
+APP1314,Google,Desktop,4,23,No,Confirmation
+APP1315,LinkedIn,Mobile,6,8,Yes,Internship List
+APP1316,LinkedIn,Desktop,8,16,No,Resume Upload
+APP1317,Facebook,Desktop,8,27,No,Confirmation
+APP1318,LinkedIn,Mobile,5,22,Yes,Internship List
+APP1319,LinkedIn,Mobile,6,5,No,Home
+APP1320,Facebook,Mobile,4,27,Yes,Application Form
+APP1321,LinkedIn,Desktop,9,25,No,Application Form
+APP1322,LinkedIn,Mobile,8,29,Yes,Application Form
+APP1323,LinkedIn,Desktop,1,3,No,Confirmation
+APP1324,Google,Desktop,2,12,Yes,Internship List
+APP1325,Google,Mobile,9,13,Yes,Confirmation
+APP1326,Google,Tablet,8,13,Yes,Resume Upload
+APP1327,Facebook,Mobile,3,10,No,Home
+APP1328,Direct,Mobile,8,4,No,Home
+APP1329,LinkedIn,Mobile,1,9,No,Application Form
+APP1330,LinkedIn,Mobile,4,22,No,Application Form
+APP1331,Facebook,Desktop,3,24,Yes,Application Form
+APP1332,LinkedIn,Desktop,6,23,Yes,Internship List
+APP1333,Google,Desktop,7,27,Yes,Resume Upload
+APP1334,Direct,Desktop,4,2,Yes,Resume Upload
+APP1335,Instagram,Mobile,7,19,Yes,Resume Upload
+APP1336,LinkedIn,Mobile,9,1,Yes,Resume Upload
+APP1337,Google,Desktop,2,25,Yes,Application Form
+APP1338,Instagram,Desktop,3,29,Yes,Home
+APP1339,Direct,Mobile,5,7,Yes,Application Form
+APP1340,Instagram,Desktop,3,17,Yes,Resume Upload
+APP1341,Google,Mobile,8,3,No,Application Form
+APP1342,Instagram,Mobile,8,20,No,Resume Upload
+APP1343,Facebook,Mobile,8,20,No,Confirmation
+APP1344,Instagram,Mobile,9,21,Yes,Home
+APP1345,LinkedIn,Mobile,4,30,Yes,Confirmation
+APP1346,LinkedIn,Desktop,5,3,No,Internship List
+APP1347,Facebook,Mobile,5,3,Yes,Application Form
+APP1348,Google,Mobile,8,17,Yes,Internship List
+APP1349,LinkedIn,Desktop,7,7,Yes,Application Form
+APP1350,Direct,Mobile,9,27,Yes,Confirmation
+APP1351,LinkedIn,Mobile,8,26,Yes,Resume Upload
+APP1352,LinkedIn,Mobile,2,14,Yes,Resume Upload
+APP1353,Google,Mobile,4,17,Yes,Application Form
+APP1354,Instagram,Mobile,6,18,Yes,Resume Upload
+APP1355,LinkedIn,Mobile,2,13,Yes,Confirmation
+APP1356,Facebook,Mobile,7,20,No,Resume Upload
+APP1357,Instagram,Mobile,3,29,Yes,Confirmation
+APP1358,Direct,Mobile,3,20,Yes,Internship List
+APP1359,Google,Mobile,2,21,No,Confirmation
+APP1360,Direct,Mobile,8,27,Yes,Home
+APP1361,Instagram,Desktop,6,18,Yes,Home
+APP1362,Instagram,Mobile,1,4,Yes,Home
+APP1363,Instagram,Mobile,1,1,Yes,Application Form
+APP1364,Direct,Desktop,7,18,Yes,Application Form
+APP1365,Instagram,Mobile,8,1,No,Application Form
+APP1366,Direct,Desktop,5,26,Yes,Confirmation
+APP1367,Instagram,Desktop,5,26,Yes,Application Form
+APP1368,Facebook,Mobile,4,13,Yes,Internship List
+APP1369,Instagram,Desktop,6,20,Yes,Home
+APP1370,Direct,Mobile,6,20,Yes,Confirmation
+APP1371,LinkedIn,Mobile,3,23,Yes,Home
+APP1372,Instagram,Mobile,9,10,Yes,Application Form
+APP1373,LinkedIn,Desktop,7,27,Yes,Confirmation
+APP1374,Facebook,Desktop,1,11,Yes,Resume Upload
+APP1375,Google,Mobile,7,9,Yes,Internship List
+APP1376,Facebook,Tablet,5,9,No,Application Form
+APP1377,Instagram,Mobile,5,5,Yes,Application Form
+APP1378,LinkedIn,Desktop,2,26,Yes,Internship List
+APP1379,LinkedIn,Mobile,4,1,Yes,Internship List
+APP1380,Direct,Mobile,6,17,No,Resume Upload
+APP1381,LinkedIn,Mobile,7,22,Yes,Application Form
+APP1382,Direct,Desktop,5,2,Yes,Application Form
+APP1383,Google,Mobile,9,24,No,Home
+APP1384,Instagram,Mobile,3,13,No,Confirmation
+APP1385,Direct,Tablet,1,9,Yes,Confirmation
+APP1386,Google,Desktop,4,29,Yes,Home
+APP1387,LinkedIn,Mobile,9,4,No,Confirmation
+APP1388,LinkedIn,Tablet,4,5,No,Internship List
+APP1389,Google,Desktop,2,11,No,Confirmation
+APP1390,LinkedIn,Tablet,5,24,Yes,Confirmation
+APP1391,Google,Mobile,3,19,Yes,Home
+APP1392,Direct,Desktop,9,21,Yes,Resume Upload
+APP1393,Direct,Desktop,4,3,No,Confirmation
+APP1394,Google,Mobile,6,12,Yes,Confirmation
+APP1395,Direct,Desktop,2,26,Yes,Resume Upload
+APP1396,Direct,Mobile,6,19,No,Home
+APP1397,Direct,Desktop,3,19,Yes,Resume Upload
+APP1398,Facebook,Mobile,9,13,No,Home
+APP1399,Instagram,Desktop,2,28,Yes,Internship List
+APP1400,LinkedIn,Mobile,9,7,Yes,Home
+APP1401,Facebook,Tablet,5,15,Yes,Internship List
+APP1402,Direct,Tablet,8,23,No,Internship List
+APP1403,Google,Mobile,2,7,Yes,Home
+APP1404,Direct,Desktop,6,26,Yes,Application Form
+APP1405,Instagram,Mobile,3,8,No,Home
+APP1406,Direct,Desktop,5,5,Yes,Confirmation
+APP1407,Google,Desktop,8,21,Yes,Confirmation
+APP1408,Instagram,Desktop,1,14,Yes,Application Form
+APP1409,Direct,Mobile,5,4,Yes,Internship List
+APP1410,Instagram,Mobile,3,23,Yes,Application Form
+APP1411,LinkedIn,Mobile,4,10,Yes,Confirmation
+APP1412,LinkedIn,Desktop,2,20,Yes,Application Form
+APP1413,Direct,Desktop,9,15,Yes,Home
+APP1414,Instagram,Tablet,3,18,Yes,Application Form
+APP1415,Google,Desktop,2,20,Yes,Internship List
+APP1416,Direct,Mobile,9,13,Yes,Home
+APP1417,LinkedIn,Desktop,7,29,Yes,Resume Upload
+APP1418,LinkedIn,Mobile,6,8,Yes,Confirmation
+APP1419,Direct,Mobile,1,9,Yes,Confirmation
+APP1420,Instagram,Desktop,5,16,Yes,Application Form
+APP1421,LinkedIn,Desktop,3,19,No,Home
+APP1422,Instagram,Mobile,1,16,Yes,Resume Upload
+APP1423,LinkedIn,Mobile,4,7,No,Home
+APP1424,LinkedIn,Desktop,2,14,No,Confirmation
+APP1425,Facebook,Tablet,2,28,Yes,Home
+APP1426,LinkedIn,Desktop,3,14,Yes,Resume Upload
+APP1427,Google,Desktop,8,25,Yes,Application Form
+APP1428,Direct,Tablet,8,27,No,Internship List
+APP1429,Direct,Desktop,7,4,Yes,Home
+APP1430,Instagram,Mobile,6,26,Yes,Internship List
+APP1431,LinkedIn,Desktop,9,15,Yes,Confirmation
+APP1432,Google,Desktop,4,3,No,Application Form
+APP1433,Instagram,Tablet,1,5,No,Application Form
+APP1434,Facebook,Desktop,8,1,Yes,Home
+APP1435,Instagram,Mobile,7,3,Yes,Application Form
+APP1436,Instagram,Desktop,7,15,Yes,Home
+APP1437,LinkedIn,Desktop,3,24,Yes,Home
+APP1438,Facebook,Desktop,4,27,No,Internship List
+APP1439,Instagram,Mobile,9,8,Yes,Application Form
+APP1440,Google,Desktop,6,29,Yes,Home
+APP1441,Google,Mobile,5,4,Yes,Internship List
+APP1442,Direct,Mobile,3,2,No,Resume Upload
+APP1443,Facebook,Tablet,9,29,No,Internship List
+APP1444,Facebook,Desktop,5,24,Yes,Internship List
+APP1445,Direct,Mobile,5,24,No,Home
+APP1446,Instagram,Mobile,4,10,Yes,Confirmation
+APP1447,Facebook,Mobile,4,4,Yes,Confirmation
+APP1448,Google,Mobile,1,3,Yes,Confirmation
+APP1449,Google,Mobile,7,2,Yes,Internship List
+APP1450,LinkedIn,Mobile,9,25,Yes,Home
+APP1451,Facebook,Desktop,3,17,No,Application Form
+APP1452,Instagram,Desktop,2,23,Yes,Internship List
+APP1453,Direct,Tablet,3,21,Yes,Internship List
+APP1454,Direct,Mobile,1,24,Yes,Home
+APP1455,Instagram,Mobile,6,20,Yes,Resume Upload
+APP1456,LinkedIn,Mobile,7,23,No,Internship List
+APP1457,Direct,Desktop,2,13,Yes,Resume Upload
+APP1458,Facebook,Desktop,8,5,Yes,Resume Upload
+APP1459,LinkedIn,Mobile,6,30,No,Confirmation
+APP1460,Facebook,Desktop,4,21,Yes,Home
+APP1461,Google,Desktop,5,30,Yes,Resume Upload
+APP1462,LinkedIn,Mobile,8,9,Yes,Home
+APP1463,Direct,Desktop,3,25,Yes,Confirmation
+APP1464,LinkedIn,Mobile,3,29,No,Home
+APP1465,LinkedIn,Desktop,4,25,No,Internship List
+APP1466,LinkedIn,Mobile,1,28,Yes,Resume Upload
+APP1467,LinkedIn,Desktop,9,22,No,Home
+APP1468,Facebook,Mobile,8,6,Yes,Application Form
+APP1469,Google,Desktop,8,5,Yes,Home
+APP1470,Instagram,Desktop,6,25,Yes,Resume Upload
+APP1471,LinkedIn,Desktop,7,10,Yes,Confirmation
+APP1472,Direct,Mobile,6,8,Yes,Confirmation
+APP1473,LinkedIn,Mobile,9,7,Yes,Resume Upload
+APP1474,Direct,Desktop,3,7,No,Internship List
+APP1475,Facebook,Mobile,3,6,Yes,Internship List
+APP1476,Direct,Mobile,3,21,Yes,Confirmation
+APP1477,Instagram,Mobile,3,29,Yes,Confirmation
+APP1478,Google,Desktop,9,20,Yes,Resume Upload
+APP1479,Direct,Mobile,4,3,Yes,Internship List
+APP1480,Direct,Desktop,7,19,Yes,Confirmation
+APP1481,Google,Desktop,9,22,No,Internship List
+APP1482,Instagram,Tablet,7,15,Yes,Confirmation
+APP1483,LinkedIn,Desktop,9,4,Yes,Home
+APP1484,Direct,Mobile,3,28,Yes,Application Form
+APP1485,Google,Mobile,4,12,Yes,Home
+APP1486,Facebook,Mobile,8,6,Yes,Confirmation
+APP1487,Google,Mobile,6,19,No,Application Form
+APP1488,Facebook,Desktop,5,4,Yes,Application Form
+APP1489,Instagram,Desktop,4,15,Yes,Confirmation
+APP1490,LinkedIn,Mobile,8,9,Yes,Confirmation
+APP1491,Google,Desktop,1,5,Yes,Internship List
+APP1492,Direct,Desktop,9,13,Yes,Confirmation
+APP1493,Instagram,Desktop,1,23,No,Resume Upload
+APP1494,Google,Desktop,8,26,Yes,Confirmation
+APP1495,Direct,Desktop,4,18,No,Resume Upload
+APP1496,Google,Desktop,9,30,Yes,Confirmation
+APP1497,Facebook,Mobile,5,30,No,Internship List
+APP1498,Google,Mobile,3,5,Yes,Resume Upload
+APP1499,Google,Mobile,9,25,Yes,Home
+APP1500,Google,Desktop,9,16,Yes,Resume Upload
+APP1501,Instagram,Desktop,4,27,No,Internship List
+APP1502,Google,Desktop,4,19,Yes,Resume Upload
+APP1503,Direct,Mobile,8,14,Yes,Confirmation
+APP1504,Facebook,Mobile,2,25,Yes,Confirmation
+APP1505,Facebook,Desktop,9,30,No,Internship List
+APP1506,Google,Tablet,6,16,Yes,Application Form
+APP1507,Instagram,Desktop,9,27,No,Confirmation
+APP1508,Instagram,Mobile,8,15,Yes,Home
+APP1509,Direct,Mobile,7,22,Yes,Internship List
+APP1510,Google,Mobile,1,4,Yes,Resume Upload
+APP1511,Facebook,Mobile,3,7,No,Resume Upload
+APP1512,Instagram,Mobile,2,16,Yes,Home
+APP1513,Google,Desktop,5,24,No,Confirmation
+APP1514,Instagram,Mobile,5,22,Yes,Internship List
+APP1515,Instagram,Desktop,5,21,Yes,Home
+APP1516,Facebook,Mobile,4,22,Yes,Confirmation
+APP1517,LinkedIn,Mobile,5,21,Yes,Internship List
+APP1518,Direct,Mobile,3,8,No,Resume Upload
+APP1519,Direct,Mobile,1,17,No,Internship List
+APP1520,Facebook,Mobile,5,16,No,Application Form
+APP1521,Instagram,Mobile,9,27,No,Internship List
+APP1522,Google,Mobile,9,23,Yes,Application Form
+APP1523,Instagram,Desktop,4,10,Yes,Internship List
+APP1524,Facebook,Desktop,3,10,No,Application Form
+APP1525,Direct,Desktop,1,27,Yes,Resume Upload
+APP1526,Instagram,Desktop,2,2,No,Confirmation
+APP1527,Direct,Mobile,8,30,No,Application Form
+APP1528,Google,Desktop,1,9,Yes,Application Form
+APP1529,Direct,Tablet,8,17,No,Resume Upload
+APP1530,Direct,Desktop,7,11,Yes,Application Form
+APP1531,LinkedIn,Desktop,8,10,Yes,Home
+APP1532,LinkedIn,Mobile,6,22,Yes,Resume Upload
+APP1533,LinkedIn,Mobile,9,25,Yes,Home
+APP1534,Direct,Mobile,3,17,Yes,Resume Upload
+APP1535,Facebook,Mobile,4,4,Yes,Application Form
+APP1536,Direct,Mobile,6,16,No,Home
+APP1537,Facebook,Desktop,8,20,No,Application Form
+APP1538,Facebook,Tablet,5,15,Yes,Resume Upload
+APP1539,LinkedIn,Tablet,3,25,Yes,Application Form
+APP1540,Instagram,Mobile,6,27,No,Home
+APP1541,Google,Desktop,4,21,Yes,Home
+APP1542,LinkedIn,Mobile,9,5,Yes,Application Form
+APP1543,LinkedIn,Desktop,3,6,Yes,Internship List
+APP1544,Instagram,Desktop,4,17,Yes,Resume Upload
+APP1545,Google,Desktop,7,1,Yes,Resume Upload
+APP1546,Direct,Mobile,7,25,No,Application Form
+APP1547,Direct,Mobile,4,19,Yes,Internship List
+APP1548,LinkedIn,Mobile,6,4,Yes,Home
+APP1549,Google,Mobile,3,17,Yes,Confirmation
+APP1550,LinkedIn,Desktop,6,9,Yes,Confirmation
+APP1551,Facebook,Desktop,2,24,Yes,Application Form
+APP1552,LinkedIn,Desktop,8,2,No,Internship List
+APP1553,LinkedIn,Tablet,2,8,No,Internship List
+APP1554,Direct,Desktop,7,15,Yes,Resume Upload
+APP1555,Direct,Mobile,9,7,No,Home
+APP1556,Direct,Mobile,1,27,No,Internship List
+APP1557,Facebook,Desktop,8,6,No,Confirmation
+APP1558,Direct,Mobile,7,1,Yes,Home
+APP1559,Google,Mobile,6,15,Yes,Home
+APP1560,Instagram,Mobile,6,23,Yes,Application Form
+APP1561,Google,Tablet,6,26,Yes,Internship List
+APP1562,Google,Desktop,9,7,Yes,Application Form
+APP1563,Direct,Desktop,2,29,Yes,Internship List
+APP1564,Instagram,Mobile,1,30,No,Resume Upload
+APP1565,Instagram,Tablet,6,25,No,Application Form
+APP1566,Instagram,Desktop,8,17,No,Application Form
+APP1567,Facebook,Mobile,3,2,Yes,Confirmation
+APP1568,Direct,Mobile,1,27,Yes,Application Form
+APP1569,Instagram,Mobile,9,9,Yes,Internship List
+APP1570,Facebook,Desktop,1,29,Yes,Confirmation
+APP1571,LinkedIn,Mobile,3,9,Yes,Application Form
+APP1572,LinkedIn,Tablet,8,13,Yes,Application Form
+APP1573,Facebook,Desktop,3,6,Yes,Resume Upload
+APP1574,Facebook,Desktop,4,6,No,Application Form
+APP1575,Direct,Tablet,8,20,Yes,Home
+APP1576,Direct,Desktop,1,20,No,Confirmation
+APP1577,LinkedIn,Mobile,6,21,Yes,Home
+APP1578,Instagram,Mobile,1,3,Yes,Confirmation
+APP1579,LinkedIn,Desktop,1,17,Yes,Resume Upload
+APP1580,Instagram,Mobile,8,17,Yes,Application Form
+APP1581,Instagram,Desktop,4,12,Yes,Application Form
+APP1582,Direct,Mobile,1,16,Yes,Application Form
+APP1583,Google,Desktop,7,15,Yes,Confirmation
+APP1584,Google,Mobile,5,13,Yes,Application Form
+APP1585,Facebook,Desktop,5,23,Yes,Home
+APP1586,Direct,Desktop,1,1,No,Application Form
+APP1587,Instagram,Tablet,6,17,Yes,Resume Upload
+APP1588,Google,Desktop,9,3,No,Home
+APP1589,Instagram,Mobile,9,26,Yes,Application Form
+APP1590,Google,Desktop,8,15,No,Application Form
+APP1591,Google,Mobile,5,4,No,Internship List
+APP1592,Google,Desktop,1,4,Yes,Confirmation
+APP1593,Direct,Tablet,9,18,Yes,Home
+APP1594,LinkedIn,Mobile,1,17,No,Internship List
+APP1595,Instagram,Desktop,8,19,Yes,Resume Upload
+APP1596,Direct,Desktop,5,11,Yes,Confirmation
+APP1597,Direct,Desktop,3,20,Yes,Home
+APP1598,Direct,Mobile,7,3,No,Application Form
+APP1599,Direct,Desktop,7,8,No,Home
+APP1600,Direct,Mobile,9,14,Yes,Application Form
+APP1601,Facebook,Desktop,7,26,Yes,Confirmation
+APP1602,Instagram,Desktop,3,1,Yes,Application Form
+APP1603,Direct,Mobile,1,14,Yes,Resume Upload
+APP1604,Instagram,Mobile,8,2,No,Application Form
+APP1605,Facebook,Desktop,3,29,Yes,Resume Upload
+APP1606,Facebook,Desktop,8,23,Yes,Confirmation
+APP1607,Instagram,Desktop,8,4,Yes,Confirmation
+APP1608,Google,Mobile,5,24,No,Home
+APP1609,LinkedIn,Mobile,1,27,Yes,Resume Upload
+APP1610,Google,Mobile,7,29,Yes,Resume Upload
+APP1611,Google,Mobile,5,19,Yes,Internship List
+APP1612,Google,Mobile,8,6,Yes,Internship List
+APP1613,Direct,Mobile,9,25,Yes,Internship List
+APP1614,Facebook,Mobile,7,1,Yes,Application Form
+APP1615,Google,Desktop,7,17,Yes,Internship List
+APP1616,Facebook,Desktop,1,8,No,Resume Upload
+APP1617,Instagram,Desktop,4,19,No,Application Form
+APP1618,LinkedIn,Desktop,2,21,No,Confirmation
+APP1619,Instagram,Mobile,2,1,Yes,Home
+APP1620,Instagram,Tablet,2,5,No,Internship List
+APP1621,Direct,Desktop,4,27,Yes,Confirmation
+APP1622,LinkedIn,Desktop,1,16,Yes,Resume Upload
+APP1623,Instagram,Mobile,4,6,Yes,Home
+APP1624,Instagram,Tablet,2,8,Yes,Confirmation
+APP1625,LinkedIn,Desktop,5,13,Yes,Home
+APP1626,LinkedIn,Mobile,3,16,Yes,Internship List
+APP1627,Instagram,Desktop,8,30,Yes,Resume Upload
+APP1628,LinkedIn,Desktop,4,3,Yes,Home
+APP1629,Instagram,Tablet,1,19,Yes,Confirmation
+APP1630,Instagram,Tablet,1,12,Yes,Internship List
+APP1631,Direct,Desktop,3,16,Yes,Internship List
+APP1632,Google,Tablet,9,27,No,Confirmation
+APP1633,Instagram,Mobile,7,11,No,Confirmation
+APP1634,Facebook,Mobile,2,10,Yes,Home
+APP1635,Google,Mobile,9,25,Yes,Application Form
+APP1636,Google,Mobile,2,20,Yes,Internship List
+APP1637,Google,Mobile,3,4,No,Home
+APP1638,Direct,Mobile,2,12,Yes,Confirmation
+APP1639,Instagram,Desktop,3,23,Yes,Home
+APP1640,Direct,Desktop,6,2,Yes,Confirmation
+APP1641,Instagram,Desktop,9,24,Yes,Resume Upload
+APP1642,Direct,Mobile,9,22,Yes,Confirmation
+APP1643,Direct,Desktop,7,19,No,Confirmation
+APP1644,Facebook,Mobile,3,25,Yes,Confirmation
+APP1645,Direct,Tablet,4,5,Yes,Application Form
+APP1646,LinkedIn,Desktop,6,8,No,Confirmation
+APP1647,Facebook,Mobile,5,7,No,Internship List
+APP1648,Direct,Desktop,2,14,Yes,Internship List
+APP1649,Google,Mobile,6,24,Yes,Home
+APP1650,LinkedIn,Desktop,3,23,Yes,Application Form
+APP1651,LinkedIn,Mobile,8,3,No,Home
+APP1652,LinkedIn,Mobile,2,18,Yes,Internship List
+APP1653,Facebook,Tablet,1,16,No,Internship List
+APP1654,Direct,Mobile,9,23,Yes,Resume Upload
+APP1655,Direct,Mobile,3,19,Yes,Confirmation
+APP1656,Google,Mobile,1,19,Yes,Internship List
+APP1657,Google,Mobile,7,18,Yes,Home
+APP1658,LinkedIn,Mobile,5,20,Yes,Home
+APP1659,Google,Desktop,5,16,Yes,Confirmation
+APP1660,Facebook,Tablet,1,8,Yes,Confirmation
+APP1661,Direct,Mobile,9,28,No,Resume Upload
+APP1662,LinkedIn,Mobile,7,1,Yes,Application Form
+APP1663,Google,Desktop,8,17,No,Home
+APP1664,Facebook,Mobile,9,12,Yes,Confirmation
+APP1665,Facebook,Desktop,6,30,Yes,Home
+APP1666,Google,Mobile,5,21,Yes,Confirmation
+APP1667,Direct,Desktop,6,11,Yes,Internship List
+APP1668,Google,Mobile,2,5,No,Home
+APP1669,LinkedIn,Tablet,4,27,Yes,Internship List
+APP1670,Google,Desktop,3,12,Yes,Home
+APP1671,Facebook,Tablet,7,17,Yes,Application Form
+APP1672,Google,Desktop,9,6,Yes,Resume Upload
+APP1673,Direct,Mobile,5,1,Yes,Internship List
+APP1674,Instagram,Mobile,6,5,No,Confirmation
+APP1675,Google,Mobile,2,25,No,Application Form
+APP1676,Direct,Mobile,3,28,Yes,Home
+APP1677,Direct,Mobile,3,14,Yes,Internship List
+APP1678,Facebook,Desktop,9,5,Yes,Home
+APP1679,Direct,Desktop,7,22,Yes,Home
+APP1680,Direct,Mobile,8,24,Yes,Home
+APP1681,Direct,Mobile,9,27,Yes,Resume Upload
+APP1682,Direct,Mobile,6,1,Yes,Resume Upload
+APP1683,LinkedIn,Mobile,4,30,Yes,Confirmation
+APP1684,LinkedIn,Desktop,1,18,Yes,Internship List
+APP1685,Facebook,Mobile,8,16,Yes,Application Form
+APP1686,Google,Desktop,7,9,Yes,Application Form
+APP1687,Direct,Mobile,2,19,Yes,Application Form
+APP1688,Google,Desktop,8,22,No,Home
+APP1689,Google,Desktop,5,5,Yes,Resume Upload
+APP1690,Facebook,Desktop,7,27,Yes,Internship List
+APP1691,Direct,Desktop,4,2,Yes,Home
+APP1692,Direct,Mobile,5,30,No,Resume Upload
+APP1693,Instagram,Desktop,8,15,Yes,Resume Upload
+APP1694,Google,Desktop,1,7,Yes,Internship List
+APP1695,Google,Desktop,1,4,Yes,Internship List
+APP1696,LinkedIn,Desktop,4,1,No,Internship List
+APP1697,Instagram,Desktop,3,13,No,Home
+APP1698,LinkedIn,Desktop,2,20,Yes,Confirmation
+APP1699,LinkedIn,Mobile,3,22,No,Internship List
+APP1700,LinkedIn,Mobile,1,7,No,Confirmation
+APP1701,Facebook,Mobile,1,15,No,Home
+APP1702,Facebook,Mobile,6,23,Yes,Confirmation
+APP1703,LinkedIn,Desktop,5,14,Yes,Application Form
+APP1704,Instagram,Mobile,8,23,Yes,Confirmation
+APP1705,Google,Mobile,2,19,No,Internship List
+APP1706,Instagram,Mobile,4,22,Yes,Home
+APP1707,Direct,Desktop,8,29,Yes,Internship List
+APP1708,Facebook,Desktop,6,24,Yes,Application Form
+APP1709,Google,Desktop,1,20,No,Internship List
+APP1710,Google,Desktop,4,29,No,Internship List
+APP1711,Direct,Mobile,1,24,Yes,Internship List
+APP1712,Direct,Mobile,2,18,No,Resume Upload
+APP1713,LinkedIn,Mobile,5,10,Yes,Application Form
+APP1714,Facebook,Mobile,8,9,No,Internship List
+APP1715,Facebook,Mobile,8,25,Yes,Internship List
+APP1716,Instagram,Mobile,3,8,Yes,Internship List
+APP1717,LinkedIn,Tablet,4,26,No,Home
+APP1718,LinkedIn,Desktop,6,30,Yes,Resume Upload
+APP1719,LinkedIn,Desktop,3,29,No,Home
+APP1720,LinkedIn,Desktop,2,10,Yes,Resume Upload
+APP1721,Facebook,Mobile,6,17,Yes,Internship List
+APP1722,Facebook,Mobile,5,2,Yes,Application Form
+APP1723,LinkedIn,Desktop,5,6,Yes,Confirmation
+APP1724,Instagram,Tablet,5,26,Yes,Confirmation
+APP1725,Google,Desktop,5,5,Yes,Internship List
+APP1726,Google,Tablet,3,28,Yes,Home
+APP1727,Instagram,Desktop,7,30,Yes,Application Form
+APP1728,LinkedIn,Desktop,6,9,No,Resume Upload
+APP1729,Facebook,Mobile,4,5,No,Internship List
+APP1730,Google,Desktop,2,18,Yes,Application Form
+APP1731,Direct,Desktop,9,26,No,Application Form
+APP1732,Direct,Desktop,1,20,Yes,Resume Upload
+APP1733,Instagram,Mobile,4,9,Yes,Application Form
+APP1734,LinkedIn,Mobile,1,17,No,Home
+APP1735,Google,Desktop,6,27,No,Home
+APP1736,LinkedIn,Mobile,4,17,Yes,Home
+APP1737,Google,Mobile,5,12,No,Application Form
+APP1738,Instagram,Desktop,5,7,Yes,Home
+APP1739,Instagram,Desktop,9,27,No,Resume Upload
+APP1740,Direct,Desktop,1,3,Yes,Application Form
+APP1741,LinkedIn,Desktop,2,10,Yes,Confirmation
+APP1742,Direct,Mobile,6,2,Yes,Application Form
+APP1743,LinkedIn,Desktop,5,25,Yes,Resume Upload
+APP1744,Direct,Mobile,7,3,Yes,Confirmation
+APP1745,Facebook,Mobile,3,16,No,Application Form
+APP1746,Facebook,Desktop,3,2,Yes,Home
+APP1747,Facebook,Mobile,2,28,Yes,Internship List
+APP1748,Facebook,Desktop,3,24,Yes,Internship List
+APP1749,Google,Tablet,1,10,Yes,Home
+APP1750,Facebook,Mobile,5,6,Yes,Internship List
+APP1751,Instagram,Mobile,5,22,Yes,Internship List
+APP1752,Instagram,Mobile,7,26,Yes,Home
+APP1753,Google,Desktop,4,11,Yes,Home
+APP1754,Facebook,Mobile,3,23,Yes,Application Form
+APP1755,Facebook,Tablet,1,7,No,Application Form
+APP1756,Facebook,Mobile,8,27,No,Home
+APP1757,Direct,Mobile,3,29,Yes,Resume Upload
+APP1758,LinkedIn,Mobile,2,15,Yes,Internship List
+APP1759,Direct,Desktop,4,6,Yes,Application Form
+APP1760,LinkedIn,Desktop,3,20,Yes,Internship List
+APP1761,Facebook,Mobile,1,27,Yes,Confirmation
+APP1762,Facebook,Desktop,3,9,Yes,Home
+APP1763,Direct,Mobile,2,22,Yes,Resume Upload
+APP1764,Direct,Tablet,8,20,Yes,Confirmation
+APP1765,LinkedIn,Desktop,6,12,Yes,Confirmation
+APP1766,Instagram,Desktop,9,19,No,Confirmation
+APP1767,LinkedIn,Mobile,8,20,No,Home
+APP1768,Direct,Desktop,3,3,Yes,Application Form
+APP1769,Direct,Mobile,5,15,Yes,Home
+APP1770,Google,Desktop,7,2,No,Application Form
+APP1771,Direct,Mobile,5,30,No,Confirmation
+APP1772,Google,Desktop,8,21,Yes,Confirmation
+APP1773,Instagram,Mobile,5,2,Yes,Resume Upload
+APP1774,LinkedIn,Mobile,1,22,Yes,Application Form
+APP1775,LinkedIn,Mobile,5,3,Yes,Confirmation
+APP1776,Google,Desktop,4,6,Yes,Internship List
+APP1777,LinkedIn,Mobile,6,15,Yes,Resume Upload
+APP1778,Direct,Mobile,3,27,Yes,Home
+APP1779,Facebook,Desktop,5,10,Yes,Resume Upload
+APP1780,Google,Desktop,2,9,No,Internship List
+APP1781,LinkedIn,Desktop,6,1,Yes,Application Form
+APP1782,Google,Mobile,6,16,Yes,Home
+APP1783,Google,Mobile,5,6,Yes,Home
+APP1784,Facebook,Mobile,6,9,Yes,Application Form
+APP1785,Direct,Desktop,7,27,No,Resume Upload
+APP1786,Google,Desktop,5,4,Yes,Confirmation
+APP1787,LinkedIn,Mobile,1,27,Yes,Resume Upload
+APP1788,Instagram,Mobile,8,28,No,Internship List
+APP1789,Google,Tablet,4,2,Yes,Confirmation
+APP1790,Google,Desktop,9,29,No,Resume Upload
+APP1791,Facebook,Mobile,6,4,Yes,Application Form
+APP1792,Direct,Desktop,1,1,Yes,Internship List
+APP1793,Instagram,Desktop,3,19,Yes,Internship List
+APP1794,LinkedIn,Mobile,3,26,Yes,Internship List
+APP1795,Instagram,Mobile,4,25,No,Confirmation
+APP1796,LinkedIn,Tablet,6,10,No,Home
+APP1797,Direct,Desktop,7,21,Yes,Confirmation
+APP1798,LinkedIn,Desktop,4,15,Yes,Resume Upload
+APP1799,Facebook,Mobile,6,27,No,Home
+APP1800,Facebook,Mobile,1,22,No,Resume Upload
+APP1801,Facebook,Desktop,8,19,Yes,Home
+APP1802,Facebook,Desktop,7,16,Yes,Confirmation
+APP1803,Instagram,Desktop,9,21,Yes,Internship List
+APP1804,Direct,Mobile,3,27,No,Application Form
+APP1805,LinkedIn,Desktop,2,24,Yes,Internship List
+APP1806,LinkedIn,Desktop,1,22,Yes,Confirmation
+APP1807,Facebook,Desktop,3,4,No,Home
+APP1808,Facebook,Desktop,5,2,Yes,Internship List
+APP1809,Google,Desktop,2,30,Yes,Confirmation
+APP1810,Direct,Mobile,3,25,Yes,Resume Upload
+APP1811,Instagram,Desktop,4,13,Yes,Application Form
+APP1812,LinkedIn,Mobile,7,28,Yes,Internship List
+APP1813,Google,Desktop,3,1,Yes,Home
+APP1814,Google,Mobile,9,17,Yes,Resume Upload
+APP1815,LinkedIn,Mobile,8,13,Yes,Confirmation
+APP1816,Instagram,Mobile,4,4,No,Application Form
+APP1817,Google,Mobile,1,7,No,Home
+APP1818,Google,Desktop,1,17,Yes,Confirmation
+APP1819,Direct,Desktop,1,9,Yes,Confirmation
+APP1820,Instagram,Mobile,1,4,Yes,Internship List
+APP1821,Google,Tablet,8,19,Yes,Internship List
+APP1822,Instagram,Mobile,3,1,Yes,Home
+APP1823,LinkedIn,Mobile,6,10,Yes,Confirmation
+APP1824,Facebook,Mobile,3,4,Yes,Internship List
+APP1825,Google,Mobile,5,9,Yes,Application Form
+APP1826,Direct,Desktop,7,13,Yes,Application Form
+APP1827,LinkedIn,Mobile,2,14,Yes,Confirmation
+APP1828,Instagram,Tablet,6,10,Yes,Internship List
+APP1829,LinkedIn,Desktop,6,6,Yes,Home
+APP1830,Google,Mobile,3,16,Yes,Home
+APP1831,Instagram,Desktop,6,6,No,Home
+APP1832,Facebook,Mobile,5,17,No,Application Form
+APP1833,LinkedIn,Desktop,2,10,Yes,Internship List
+APP1834,Google,Mobile,9,18,Yes,Internship List
+APP1835,Direct,Mobile,8,27,Yes,Application Form
+APP1836,Instagram,Desktop,3,22,Yes,Home
+APP1837,LinkedIn,Mobile,8,18,Yes,Home
+APP1838,LinkedIn,Mobile,9,3,No,Confirmation
+APP1839,Facebook,Tablet,3,20,Yes,Resume Upload
+APP1840,Facebook,Desktop,3,27,No,Internship List
+APP1841,Direct,Desktop,2,21,Yes,Internship List
+APP1842,Direct,Desktop,8,25,Yes,Internship List
+APP1843,Google,Tablet,1,28,No,Resume Upload
+APP1844,Google,Tablet,8,15,Yes,Confirmation
+APP1845,Direct,Mobile,7,15,Yes,Resume Upload
+APP1846,Direct,Mobile,7,4,Yes,Home
+APP1847,Instagram,Mobile,3,29,Yes,Home
+APP1848,Facebook,Mobile,1,27,No,Internship List
+APP1849,Google,Desktop,4,9,Yes,Application Form
+APP1850,Facebook,Mobile,9,27,No,Internship List
+APP1851,Facebook,Desktop,5,26,No,Application Form
+APP1852,Direct,Mobile,1,19,No,Resume Upload
+APP1853,Instagram,Mobile,5,24,Yes,Home
+APP1854,LinkedIn,Mobile,8,28,Yes,Application Form
+APP1855,Instagram,Desktop,8,17,No,Resume Upload
+APP1856,Instagram,Desktop,5,11,Yes,Home
+APP1857,Facebook,Desktop,9,25,Yes,Application Form
+APP1858,Instagram,Desktop,1,9,Yes,Internship List
+APP1859,Google,Desktop,4,10,Yes,Internship List
+APP1860,Facebook,Tablet,3,18,Yes,Internship List
+APP1861,Google,Mobile,2,20,Yes,Resume Upload
+APP1862,LinkedIn,Desktop,8,13,Yes,Internship List
+APP1863,Facebook,Desktop,7,8,No,Confirmation
+APP1864,LinkedIn,Desktop,9,7,Yes,Home
+APP1865,Facebook,Mobile,2,17,No,Resume Upload
+APP1866,Direct,Mobile,4,21,Yes,Internship List
+APP1867,Instagram,Tablet,6,23,No,Home
+APP1868,Direct,Mobile,3,15,Yes,Application Form
+APP1869,LinkedIn,Tablet,8,20,No,Internship List
+APP1870,Instagram,Mobile,3,15,Yes,Home
+APP1871,Facebook,Desktop,2,1,No,Confirmation
+APP1872,Instagram,Tablet,3,25,Yes,Application Form
+APP1873,Google,Desktop,6,14,No,Confirmation
+APP1874,Instagram,Mobile,2,5,No,Home
+APP1875,Google,Desktop,8,11,Yes,Confirmation
+APP1876,Instagram,Mobile,1,16,Yes,Home
+APP1877,Google,Mobile,7,2,No,Home
+APP1878,LinkedIn,Mobile,2,8,Yes,Confirmation
+APP1879,Direct,Mobile,6,11,No,Home
+APP1880,Facebook,Desktop,2,29,Yes,Internship List
+APP1881,Instagram,Desktop,2,18,Yes,Home
+APP1882,Direct,Desktop,8,3,No,Resume Upload
+APP1883,Facebook,Desktop,2,30,Yes,Home
+APP1884,Facebook,Mobile,7,26,No,Resume Upload
+APP1885,Google,Desktop,3,1,Yes,Home
+APP1886,LinkedIn,Tablet,8,11,Yes,Home
+APP1887,LinkedIn,Mobile,7,16,Yes,Confirmation
+APP1888,Direct,Mobile,8,18,Yes,Internship List
+APP1889,LinkedIn,Desktop,7,30,Yes,Internship List
+APP1890,Instagram,Mobile,6,16,Yes,Application Form
+APP1891,LinkedIn,Tablet,7,23,Yes,Confirmation
+APP1892,Direct,Mobile,5,10,Yes,Confirmation
+APP1893,LinkedIn,Mobile,7,18,No,Internship List
+APP1894,Instagram,Mobile,1,6,Yes,Confirmation
+APP1895,Google,Desktop,1,19,Yes,Internship List
+APP1896,Direct,Mobile,9,4,Yes,Confirmation
+APP1897,Google,Desktop,5,27,Yes,Home
+APP1898,Google,Desktop,5,13,No,Internship List
+APP1899,Google,Desktop,3,24,Yes,Internship List
+APP1900,Facebook,Desktop,5,14,Yes,Resume Upload
+APP1901,Facebook,Desktop,3,3,Yes,Confirmation
+APP1902,Google,Desktop,9,10,Yes,Confirmation
+APP1903,Direct,Tablet,9,6,No,Internship List
+APP1904,Instagram,Mobile,6,1,Yes,Home
+APP1905,Instagram,Tablet,1,23,No,Home
+APP1906,LinkedIn,Desktop,7,24,Yes,Home
+APP1907,Direct,Desktop,7,27,Yes,Confirmation
+APP1908,Facebook,Mobile,4,14,No,Resume Upload
+APP1909,Google,Desktop,8,8,Yes,Internship List
+APP1910,LinkedIn,Desktop,6,19,Yes,Application Form
+APP1911,Instagram,Mobile,4,14,Yes,Resume Upload
+APP1912,Facebook,Desktop,4,10,Yes,Application Form
+APP1913,Facebook,Mobile,2,17,Yes,Resume Upload
+APP1914,Google,Mobile,2,9,Yes,Home
+APP1915,Instagram,Desktop,4,29,Yes,Confirmation
+APP1916,Direct,Desktop,5,6,Yes,Application Form
+APP1917,Facebook,Mobile,8,11,Yes,Resume Upload
+APP1918,Google,Mobile,6,25,Yes,Confirmation
+APP1919,Direct,Desktop,4,7,Yes,Application Form
+APP1920,Instagram,Tablet,7,17,Yes,Internship List
+APP1921,Facebook,Desktop,8,28,No,Resume Upload
+APP1922,Direct,Mobile,2,28,Yes,Internship List
+APP1923,Direct,Tablet,7,1,No,Home
+APP1924,Direct,Desktop,2,22,Yes,Internship List
+APP1925,Facebook,Desktop,2,5,Yes,Internship List
+APP1926,Facebook,Desktop,8,9,Yes,Resume Upload
+APP1927,LinkedIn,Desktop,2,18,Yes,Home
+APP1928,Instagram,Desktop,9,24,Yes,Internship List
+APP1929,Google,Mobile,1,27,Yes,Confirmation
+APP1930,Direct,Desktop,9,21,Yes,Application Form
+APP1931,LinkedIn,Mobile,1,2,No,Internship List
+APP1932,Google,Tablet,2,29,Yes,Home
+APP1933,LinkedIn,Mobile,6,26,Yes,Internship List
+APP1934,Facebook,Mobile,6,11,No,Application Form
+APP1935,Direct,Desktop,1,27,Yes,Home
+APP1936,Google,Mobile,7,28,Yes,Resume Upload
+APP1937,Google,Mobile,8,6,Yes,Home
+APP1938,Google,Desktop,2,26,No,Resume Upload
+APP1939,Google,Desktop,8,8,No,Home
+APP1940,Google,Mobile,9,4,Yes,Application Form
+APP1941,LinkedIn,Desktop,6,18,Yes,Application Form
+APP1942,Direct,Desktop,5,28,No,Home
+APP1943,Facebook,Desktop,9,11,Yes,Internship List
+APP1944,Facebook,Desktop,9,5,Yes,Application Form
+APP1945,Facebook,Mobile,1,15,Yes,Resume Upload
+APP1946,Facebook,Mobile,3,28,Yes,Resume Upload
+APP1947,LinkedIn,Mobile,9,18,Yes,Confirmation
+APP1948,Instagram,Desktop,2,2,Yes,Resume Upload
+APP1949,Direct,Desktop,4,22,Yes,Confirmation
+APP1950,Google,Mobile,4,11,Yes,Home
+APP1951,Instagram,Desktop,2,26,No,Home
+APP1952,Facebook,Desktop,3,25,Yes,Home
+APP1953,Instagram,Mobile,3,13,Yes,Internship List
+APP1954,Direct,Desktop,1,4,Yes,Internship List
+APP1955,Google,Mobile,6,22,Yes,Confirmation
+APP1956,Google,Desktop,8,7,Yes,Resume Upload
+APP1957,Direct,Desktop,3,29,Yes,Resume Upload
+APP1958,Direct,Desktop,5,11,No,Home
+APP1959,Facebook,Tablet,1,22,No,Application Form
+APP1960,Google,Mobile,7,24,Yes,Internship List
+APP1961,Instagram,Tablet,1,4,Yes,Internship List
+APP1962,LinkedIn,Mobile,9,28,Yes,Home
+APP1963,LinkedIn,Desktop,8,15,No,Internship List
+APP1964,Direct,Mobile,7,1,No,Home
+APP1965,Facebook,Mobile,7,23,Yes,Confirmation
+APP1966,LinkedIn,Mobile,5,3,Yes,Resume Upload
+APP1967,Google,Desktop,5,14,No,Application Form
+APP1968,Direct,Mobile,5,6,Yes,Resume Upload
+APP1969,Instagram,Desktop,1,18,Yes,Resume Upload
+APP1970,Direct,Desktop,8,25,Yes,Confirmation
+APP1971,Instagram,Mobile,1,1,Yes,Internship List
+APP1972,Direct,Mobile,4,6,No,Application Form
+APP1973,Direct,Desktop,9,6,No,Internship List
+APP1974,Direct,Desktop,9,21,Yes,Resume Upload
+APP1975,Instagram,Mobile,5,16,Yes,Home
+APP1976,Instagram,Mobile,4,29,Yes,Resume Upload
+APP1977,Direct,Mobile,3,5,Yes,Internship List
+APP1978,LinkedIn,Tablet,3,17,Yes,Resume Upload
+APP1979,Facebook,Mobile,5,10,Yes,Home
+APP1980,Facebook,Desktop,1,28,Yes,Confirmation
+APP1981,Facebook,Mobile,5,21,Yes,Internship List
+APP1982,Instagram,Desktop,6,18,Yes,Resume Upload
+APP1983,Instagram,Desktop,7,7,Yes,Internship List
+APP1984,LinkedIn,Mobile,9,3,Yes,Confirmation
+APP1985,Facebook,Desktop,3,13,Yes,Resume Upload
+APP1986,Facebook,Tablet,2,15,No,Resume Upload
+APP1987,Direct,Mobile,3,20,Yes,Internship List
+APP1988,Instagram,Mobile,9,19,Yes,Internship List
+APP1989,Facebook,Mobile,7,3,No,Home
+APP1990,LinkedIn,Mobile,9,4,No,Confirmation
+APP1991,LinkedIn,Mobile,2,5,Yes,Home
+APP1992,Facebook,Mobile,5,1,No,Resume Upload
+APP1993,Instagram,Desktop,4,4,Yes,Internship List
+APP1994,LinkedIn,Mobile,2,12,Yes,Resume Upload
+APP1995,Direct,Desktop,9,28,Yes,Resume Upload
+APP1996,LinkedIn,Mobile,9,27,Yes,Application Form
+APP1997,Google,Mobile,6,24,Yes,Application Form
+APP1998,Google,Mobile,6,10,Yes,Resume Upload
+APP1999,Instagram,Desktop,8,23,Yes,Internship List
+APP2000,Facebook,Desktop,6,25,Yes,Resume Upload
